@@ -1,12 +1,7 @@
-const user = {
-  name: "Liza",
-  city: "New York",
-  bio: "I made this!",
-  color: "firebrick",
-  links: {
-    github: "https://github.com/liza",
-    linkedin: "https://www.linkedin.com/in/liza/",
-  },
+export const user = {
+  name: "Ronnie Aristil",
+  city: "San Francisco",
+  bio: "I am a passionate web developer.",
+  github: "https://github.com/ronniearistil",
+  linkedin: "https://www.linkedin.com/in/aristil-mba-pmp/"
 };
-
-export default user;
